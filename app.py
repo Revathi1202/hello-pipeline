@@ -1,0 +1,1 @@
+print("Hello! My first CI/CD project is working.")
